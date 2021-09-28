@@ -3,7 +3,7 @@
 This is an exercise to work with the DOM. Each time you click the 'Add PacMan' buttom, it creates a PacMan. When you click the 'Start Game', they start to move through the screen and change directions when bump at the end of the screen.
 
 ## How to run:
-https://rafaelfichtner.github.io/PacMen/
+Click [here](https://rafaelfichtner.github.io/PacMen/) to run the project. Click the 'Add PacMan' to add a PacMan to the screen and click the 'Start Game' to start PacMan's movement.
 
 ## Roadmap for future improvements:
 - Pac man's that change direction when bump in each other

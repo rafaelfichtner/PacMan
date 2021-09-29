@@ -1,4 +1,4 @@
-# Pac Men
+# Pac-Men
 ## Description:
 This is an exercise to work with the DOM. Each time you click the 'Add PacMan' buttom, it creates a PacMan. When you click the 'Start Game', they start to move through the screen and change directions when bump at the end of the screen.
 
